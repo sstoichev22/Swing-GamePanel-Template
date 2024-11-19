@@ -1,6 +1,6 @@
 ﻿# Swing-GamePanel-Template
 ## Download
-- [Download sgtlib.jar](https://github.com/sstoichev22/Swing-GamePanel-Template.git/releases/sgtlib.jar)
+- [Download sgtlib.jar]([https://github.com/sstoichev22/Swing-GamePanel-Template.git/releases/sgtlib.jar](https://github.com/sstoichev22/Swing-GamePanel-Template/blob/09aa75bb1cff5b0b97ab3744743a8adf856fcebb/releases/sgtlib.jar))
 
 Swing GamePanel Template AKA SGT simplifies the complexity of making a game in java. Whenever I make a game in java, I have 3 files of boilerplate code, Main with like 15 lines of code, GamePanel with 60 lines of code, and Input with 20 lines of code, I didn't like rewriting the same code over so I made a simple library to not require the use of any and simplifies all of it. An entire game of a square moving around with 'wasd' can be made with less than 50 lines of code in Main.
 ```
