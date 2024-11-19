@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sgtlib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sgtlib_jar</output-path>
+    <root id="archive" name="sgtlib.jar">
+      <element id="module-output" name="sgtlib" />
+    </root>
+  </artifact>
+</component>
